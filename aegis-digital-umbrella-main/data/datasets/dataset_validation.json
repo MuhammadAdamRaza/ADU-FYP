@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What are the potential consequences of exploiting CVE-2023-29351?",
+        "answer": "The exploitation of CVE-2023-29351 could result in an attacker gaining elevated privileges on a system. This might allow them to execute arbitrary code, access sensitive data, install programs, or create new accounts with full user rights, leading to a variety of malicious activities."
+    },
+    {
+        "question": "What are the possible exploitation scenarios for CVE-2022-41771?",
+        "answer": "Possible exploitation scenarios for CVE-2022-41771 include situations where a user with valid credentials might exploit wrongly assigned permissions to gain access to secured resources. This unauthorized access could result in the exposure of confidential information if the user is able to view sensitive material they are not cleared to see. However, this vulnerability generally requires either physical or local access to the system, indicating that it would most likely be part of a broader assault where such access has already been established, rather than the primary method of intrusion."
+    },
+    {

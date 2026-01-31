@@ -1,0 +1,4 @@
+Question,Answer
+"What are the top 10 API security risks listed in the OWASP 2023 report, and can you provide a brief description of each?","The OWASP Top 10 API Security Risks for 2023 are as follows:
+
+API1:2023 Broken Object Level Authorization - This risk involves insufficient controls at the object level which allows unauthorized users to access or modify data.

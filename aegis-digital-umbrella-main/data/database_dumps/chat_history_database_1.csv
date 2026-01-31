@@ -1,0 +1,49 @@
+_id,id,user_id,message,response,timestamp
+688209ca4e778289ec16a67b,4b95e57f-7058-4853-932e-d854ffe10f39,c28446ee-6e08-412d-86eb-dacf48fcf0d5,ss,I'm currently unable to process your request. For immediate help:,2025-07-24T10:24:10.576+00:00
+688209d44e778289ec16a67c,d194190a-998a-41f2-8765-0e30ab422174,c28446ee-6e08-412d-86eb-dacf48fcf0d5,xxs,I'm currently unable to process your request. For immediate help:,2025-07-24T10:24:20.668+00:00
+68820b055b4ef8a82fc8e8de,188369a1-13cd-4a55-873b-a79b00e9fc20,c28446ee-6e08-412d-86eb-dacf48fcf0d5,gt,I'm currently unable to process your request. For immediate help:,2025-07-24T10:29:25.371+00:00
+68820b095b4ef8a82fc8e8df,68123394-1e44-4b96-82bc-02a74a2f4ba1,c28446ee-6e08-412d-86eb-dacf48fcf0d5,ghy,I'm currently unable to process your request. For immediate help:,2025-07-24T10:29:29.788+00:00
+68820b0d5b4ef8a82fc8e8e0,1d41316a-7c59-4952-ac10-778d64453c97,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,I'm currently unable to process your request. For immediate help:,2025-07-24T10:29:33.366+00:00
+68820b125b4ef8a82fc8e8e1,30c0d2a0-75ab-499c-a925-a4475c9572db,c28446ee-6e08-412d-86eb-dacf48fcf0d5,sql,I'm currently unable to process your request. For immediate help:,2025-07-24T10:29:38.662+00:00
+68820bf5b95bfde66e7034bf,d4c99abe-711f-4286-a796-12aff8158954,c28446ee-6e08-412d-86eb-dacf48fcf0d5,sss,I'm currently unable to process your request. For immediate help:,2025-07-24T10:33:25.076+00:00
+68820d2832d98453b58168ec,231e088a-fcf4-4e2e-bed3-564fbf44a618,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,I'm currently unable to process your request. For immediate help:,2025-07-24T10:38:32.764+00:00
+68820d2b32d98453b58168ed,82890485-8cb2-41c5-9b9a-ffaf73a3acdb,c28446ee-6e08-412d-86eb-dacf48fcf0d5,c,I'm currently unable to process your request. For immediate help:,2025-07-24T10:38:35.894+00:00
+68820d2d32d98453b58168ee,084fee8d-aad4-4892-ad09-6f0f07399cac,c28446ee-6e08-412d-86eb-dacf48fcf0d5,d,I'm currently unable to process your request. For immediate help:,2025-07-24T10:38:37.263+00:00
+68820d2e32d98453b58168ef,2b2a4d6b-8603-4b73-bad8-1236babaf462,c28446ee-6e08-412d-86eb-dacf48fcf0d5,d,I'm currently unable to process your request. For immediate help:,2025-07-24T10:38:38.380+00:00
+68820dbc35de55ec5e18c08f,94c6f5d9-3b67-400a-bd6b-65d389f22741,c28446ee-6e08-412d-86eb-dacf48fcf0d5,d,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:41:00.979+00:00
+68820e0b35de55ec5e18c090,607e0f0a-26f0-42ab-a92e-b70fc9e4576e,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:42:19.668+00:00
+68820e1535de55ec5e18c091,c481f9ce-c666-40be-b144-8c698b191264,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:42:29.859+00:00
+68820e902e2f95ffa594b387,515fcc39-b969-40e2-aeed-a7fc3eb9c91d,c28446ee-6e08-412d-86eb-dacf48fcf0d5,d,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:44:32.010+00:00
+68820e932e2f95ffa594b388,54afc045-1b3a-48d5-b513-3c30bb8b3c27,c28446ee-6e08-412d-86eb-dacf48fcf0d5,fff,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:44:35.705+00:00
+68820e962e2f95ffa594b389,3e6477e4-46cb-4d12-a2e0-87edd0e7ed4a,c28446ee-6e08-412d-86eb-dacf48fcf0d5,fffff,[MOCK] AI Response (Docker: unknown_image),2025-07-24T10:44:38.404+00:00
+68821a0c8409e7f7f309700d,6d406cad-c0a1-4f29-bbe9-bfb8cc2f2037,c28446ee-6e08-412d-86eb-dacf48fcf0d5,a,[MOCK] AI Response (Docker: unknown_image),2025-07-24T11:33:32.800+00:00
+6883b5fef61d7a97f9c7b90f,dabff0bd-d2fa-40f6-bd5e-5b83d26678fa,83d31b6a-77fa-436c-a7d3-6d4ce23ce23a,message,[MOCK] AI Response (Docker: unknown_image),2025-07-25T16:51:10.981+00:00
+68864daacc8dc950c6074034,bdb307d7-396e-4a68-a205-1059cde8f680,demo_user,hy,Hi there!  How can I help you today?  Is there a cybersecurity issue y…,2025-07-27T16:02:50.822+00:00
+6881f59ffea5c8efbd724219,09e42cc1-1254-47c1-9c1b-f80714671061,c28446ee-6e08-412d-86eb-dacf48fcf0d5,what is xrss,[MOCK] AI Response (Docker: unknown_image),2025-07-24T08:58:07.168+00:00
+6881f5a9fea5c8efbd72421a,c5eb4975-9ccd-4ba7-8e8f-561a799c63a8,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,[MOCK] AI Response (Docker: unknown_image),2025-07-24T08:58:17.531+00:00
+6881f5cbfea5c8efbd72421c,47e03008-cc6f-412e-bc09-6c52e8a79e75,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,[MOCK] AI Response (Docker: unknown_image),2025-07-24T08:58:51.726+00:00
+6881f66f37ce2c1075a6d79c,39cb4904-6905-4bcc-807a-1f428fc1531f,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,[MOCK] AI Response (Docker: unknown_image),2025-07-24T09:01:35.233+00:00
+6881f7c2d281e361011adec3,30cf13d7-5f78-447c-b41c-9ba7b495190e,c28446ee-6e08-412d-86eb-dacf48fcf0d5,h,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:07:14.235+00:00
+6881f7ced281e361011adec4,ae9ec054-940f-481b-81cb-3de3dc3cc7ac,c28446ee-6e08-412d-86eb-dacf48fcf0d5,cyber security,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:07:26.439+00:00
+6881f7e1d281e361011adec5,43d52c3d-6c83-4f09-ac1a-c606911c0ef9,c28446ee-6e08-412d-86eb-dacf48fcf0d5,sql  kya hai,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:07:45.624+00:00
+6881f877d281e361011adec6,53fbd7ba-5413-4583-99a8-c2632a3f7543,c28446ee-6e08-412d-86eb-dacf48fcf0d5,n,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:10:15.356+00:00
+6881f881d281e361011adec7,85cb608f-b3e9-4f70-9e48-b1014b6651dc,c28446ee-6e08-412d-86eb-dacf48fcf0d5,what is,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:10:25.640+00:00
+6881fecbcd0e2314cca59f2d,21cc1144-6be8-4e49-829c-2da14c4e6135,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,[MOCK] AI Response (Docker: unknown_image),2025-07-24T09:37:15.959+00:00
+6881ff61d88a5f853b97171f,531961b4-59f9-460e-8859-41bf1228f9fb,c28446ee-6e08-412d-86eb-dacf48fcf0d5,"class LlmChat:     def __init__(self, api_key: str, session_id: str, s…","I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:39:45.641+00:00
+6881ff70d88a5f853b971720,a272d9fa-c4e8-44c6-975f-fff637976120,c28446ee-6e08-412d-86eb-dacf48fcf0d5,what is cyber security,"I'm sorry, I'm having trouble processing your request right now. Pleas…",2025-07-24T09:40:00.197+00:00
+6882003818eb01e1a75646d6,ebbf4487-e1fd-42e5-83a6-e87126e7e799,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,Here's a mock response to your query about 's':,2025-07-24T09:43:20.587+00:00
+6882004818eb01e1a75646d7,ff5f90a1-068c-4960-ba28-e7fbbf890c6c,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,Here's a mock response to your query about 'hy':,2025-07-24T09:43:36.286+00:00
+688202c318eb01e1a75646d8,fcca8453-ece5-49e1-ba4a-f9b7f5a0bfc4,c28446ee-6e08-412d-86eb-dacf48fcf0d5,hy,Here's a mock response to your query about 'hy':,2025-07-24T09:54:11.280+00:00
+6882068048ed3d5e0a0e31bf,a53edbe3-19cf-481f-9431-42cd622a53ec,c28446ee-6e08-412d-86eb-dacf48fcf0d5,g,I'm currently unable to process your request. For immediate help:,2025-07-24T10:10:08.526+00:00
+6882069248ed3d5e0a0e31c0,14944ca8-0d54-4a35-aaa8-a281af77d3a3,c28446ee-6e08-412d-86eb-dacf48fcf0d5,cybersecurity,I'm currently unable to process your request. For immediate help:,2025-07-24T10:10:26.143+00:00
+6882074782965a9dd7956d8e,2ba69404-8524-42c3-87db-6a2bd9282809,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,I'm currently unable to process your request. For immediate help:,2025-07-24T10:13:27.272+00:00
+688209bb4e778289ec16a679,4263a904-ab5e-4f88-95fa-e62af095c60c,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,I'm currently unable to process your request. For immediate help:,2025-07-24T10:23:55.717+00:00
+688209c64e778289ec16a67a,dd8aa712-1d6a-4b1e-9b8e-e70cc4309195,c28446ee-6e08-412d-86eb-dacf48fcf0d5,s,I'm currently unable to process your request. For immediate help:,2025-07-24T10:24:06.512+00:00
+688cdb076ac634938f0c253a,e29d8d1f-0f11-4520-8468-99e582aea551,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cdb266ac634938f0c253b,90d230f4-5de7-4847-ba5f-c5a83af0f403,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cdc146ac634938f0c253c,01f9b6c2-1f38-4219-9ff6-312e7fe5d15f,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cdd3236d50fabd30add57,b4ae6b36-918c-450e-8304-fa2711933439,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cdd5336d50fabd30add58,51cb5186-aa43-4d78-9637-5d7a0b7f824f,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cdda236d50fabd30add59,2f0a592b-c344-46d8-89fc-ee133c4f6e7c,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cddf236d50fabd30add5a,6946eb4d-cf19-4505-abab-91ac1fce2c9c,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,
+688cde0836d50fabd30add5b,a026b9f8-9296-4c98-99ba-004244745c75,bf515d6d-1301-4c9d-8bdf-93e4457a2f87,,,

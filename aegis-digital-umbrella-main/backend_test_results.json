@@ -1,0 +1,177 @@
+{
+  "summary": {
+    "passed": 18,
+    "total": 18,
+    "success_rate": "100.0%"
+  },
+  "detailed_results": {
+    "Basic API Connectivity": {
+      "success": true,
+      "message": "API is accessible and responding correctly",
+      "details": null,
+      "timestamp": "2025-07-23T13:58:25.831777"
+    },
+    "User Registration": {
+      "success": true,
+      "message": "User registered successfully",
+      "details": "User ID: 95be1507-9c3b-4948-8cdd-0432bf7d55fd",
+      "timestamp": "2025-07-23T13:58:26.081605"
+    },
+    "User Login": {
+      "success": true,
+      "message": "Login successful",
+      "details": "User ID: 95be1507-9c3b-4948-8cdd-0432bf7d55fd, Email: test.user.1753279105@cybertech.com",
+      "timestamp": "2025-07-23T13:58:26.365232"
+    },
+    "Vulnerability Scan": {
+      "success": true,
+      "message": "Scan completed with 7 vulnerabilities and 7 AI recommendations",
+      "details": {
+        "scan_id": "b4b741be-2e02-4293-815e-38b26e644466",
+        "vulnerabilities_found": 7,
+        "vulnerability_types": [
+          "XSS",
+          "CSRF",
+          "SQLI"
+        ],
+        "severity_breakdown": {
+          "High": 4,
+          "Medium": 3,
+          "Low": 0
+        },
+        "ai_recommendations_count": 7,
+        "has_sqli": true,
+        "has_xss": true,
+        "has_csrf": true
+      },
+      "timestamp": "2025-07-23T13:58:42.867394"
+    },
+    "Get Scan Results": {
+      "success": true,
+      "message": "Retrieved scan results successfully",
+      "details": "Scan ID: b4b741be-2e02-4293-815e-38b26e644466, Vulnerabilities: 7",
+      "timestamp": "2025-07-23T13:58:42.879018"
+    },
+    "Get User Scans": {
+      "success": true,
+      "message": "Retrieved 7 scans successfully",
+      "details": null,
+      "timestamp": "2025-07-23T13:58:42.891434"
+    },
+    "Dashboard Stats": {
+      "success": true,
+      "message": "Dashboard statistics retrieved successfully",
+      "details": {
+        "total_scans": 7,
+        "active_scans": 0,
+        "total_vulnerabilities": 36,
+        "high_risk_vulnerabilities": 22
+      },
+      "timestamp": "2025-07-23T13:58:42.904457"
+    },
+    "Gemini AI Integration": {
+      "success": true,
+      "message": "AI recommendations generated with relevant security content",
+      "details": {
+        "recommendations_count": 7,
+        "keyword_matches": 3,
+        "sample_recommendation": "Vulnerability Analysis and Remediation Recommendations**..."
+      },
+      "timestamp": "2025-07-23T13:58:42.915047"
+    },
+    "Enhanced User Registration": {
+      "success": true,
+      "message": "Enhanced user already exists (expected for repeated tests)",
+      "details": null,
+      "timestamp": "2025-07-23T13:58:42.966936"
+    },
+    "Enhanced User Login": {
+      "success": true,
+      "message": "Enhanced login successful with password hashing verification",
+      "details": {
+        "user_id": "eba29644-9b42-4057-9176-3a2ef1d01aba",
+        "email": "enhanced.user@aegistech.com",
+        "full_name": "Updated Security Analyst",
+        "company": "Updated AEGIS Cybersecurity",
+        "has_enhanced_fields": true,
+        "password_used": "Password attempt 2"
+      },
+      "timestamp": "2025-07-23T13:58:43.492735"
+    },
+    "Forgot Password": {
+      "success": true,
+      "message": "Password reset token generated successfully",
+      "details": "Token: bbdcdf43-360c-4a65-b...",
+      "timestamp": "2025-07-23T13:58:43.543966"
+    },
+    "Reset Password": {
+      "success": true,
+      "message": "Password reset completed successfully with token validation",
+      "details": null,
+      "timestamp": "2025-07-23T13:58:43.787283"
+    },
+    "Get User Profile": {
+      "success": true,
+      "message": "User profile retrieved successfully with proper data filtering",
+      "details": {
+        "user_id": "eba29644-9b42-4057-9176-3a2ef1d01aba",
+        "email": "enhanced.user@aegistech.com",
+        "full_name": "Updated Security Analyst",
+        "company": "Updated AEGIS Cybersecurity",
+        "phone": "+1-555-9999",
+        "sensitive_fields_properly_hidden": true
+      },
+      "timestamp": "2025-07-23T13:58:43.796783"
+    },
+    "Update User Profile": {
+      "success": true,
+      "message": "Profile updated successfully and changes verified",
+      "details": {
+        "full_name": "Updated Security Analyst",
+        "company": "Updated AEGIS Cybersecurity",
+        "phone": "+1-555-9999"
+      },
+      "timestamp": "2025-07-23T13:58:43.856734"
+    },
+    "Change Password": {
+      "success": true,
+      "message": "Password changed successfully and verified with login",
+      "details": null,
+      "timestamp": "2025-07-23T13:58:44.622805"
+    },
+    "PDF Report Generation": {
+      "success": true,
+      "message": "PDF report generated successfully with proper headers",
+      "details": {
+        "pdf_size_bytes": 5554,
+        "content_type": "application/pdf",
+        "has_filename": true,
+        "filename": "attachment; filename=aegis_scan_report_b4b741be-2e02-4293-815e-38b26e644466.pdf"
+      },
+      "timestamp": "2025-07-23T13:58:44.671460"
+    },
+    "AI Chatbot Service": {
+      "success": true,
+      "message": "AI chatbot generated meaningful security-focused response",
+      "details": {
+        "message_id": "715ac383-65c6-4fe5-acd3-b56604d1c192",
+        "response_length": 2113,
+        "security_keyword_matches": 6,
+        "response_preview": "Here are some of the most common web application vulnerabilities and how to prevent them:\n\n*   **SQL Injection:** Attackers inject malicious SQL code ..."
+      },
+      "timestamp": "2025-07-23T13:58:47.945198"
+    },
+    "Chat History": {
+      "success": true,
+      "message": "Chat history retrieved successfully with proper structure",
+      "details": {
+        "chat_count": 3,
+        "user_id_match": true,
+        "has_message": true,
+        "has_response": true
+      },
+      "timestamp": "2025-07-23T13:58:47.955023"
+    }
+  },
+  "test_timestamp": "2025-07-23T13:58:47.955234"
+}
