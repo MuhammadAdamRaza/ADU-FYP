@@ -1,25 +1,13 @@
-Here you go — **ONLY 3 SIMPLE STEPS** 👇
+ONLY 3 SIMPLE STEPS 👇
 
----
-
-## ✅ STEP 1: Navigate to backend folder
-
-```powershell
+ ✅ STEP 1: Navigate to backend folder
+powershell
 cd "C:\Users\hp\Desktop\aegis-digital-umbrella-main (2)\aegis-digital-umbrella-main\backend"
-```
 
----
-
-## ✅ STEP 2: Activate virtual environment
-
-```powershell
+✅ STEP 2: Activate virtual environment
+powershell
 .\.venv\Scripts\Activate.ps1
-```
-
-(You should see `(.venv)`)
-
----
-
+(You should see (.venv))
 ✅ STEP 3: Run backend
 
 powershell
@@ -27,13 +15,11 @@ uvicorn server:app --reload/
 uvicorn server:app --host 127.0.0.1 --port 8000 --loop asyncio --reload
 
  Open in browser
-
  [http://127.0.0.1:8000](http://127.0.0.1:8000)
  [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
 
 frond end 
 cd frontend   
  npm run start
 username muhammadadamraza06@gmail.com
-passwordadam1234
+password:adam1234
